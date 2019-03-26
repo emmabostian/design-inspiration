@@ -54,6 +54,7 @@ A collection of websites and assets to spark creativity.
 
 ## Graphics & Images
 - [unDraw](https://undraw.co/illustrations)
+- [uifaces](https://uifaces.com/)
 - [UnSplash](https://unsplash.com/)
 
 ## Icons
