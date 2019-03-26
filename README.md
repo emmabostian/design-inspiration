@@ -18,6 +18,7 @@ A collection of websites and assets to spark creativity.
 - [AZOOR Society](https://www.theazoorsociety.org/)
 - [Sheffielders](https://sheffielders.org/)
 - [Oliver Gomes](https://oliver-gomes.github.io/v4/)
+- [Hixle](http://www.hixle.co/)
 
 ## Navigation
 - [NYC Pride](https://www.nycpride.org/community/)
