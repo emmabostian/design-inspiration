@@ -46,6 +46,7 @@ A collection of websites and assets to spark creativity.
 - [Codrop](https://tympanus.net/codrops/)
 - [Calltoidea](https://calltoidea.com)
 - [PatternTap](https://patterntap.com/patterntap)
+- [Inspiredesign](http://inspiredesign.me/)
 
 
 # Resources
