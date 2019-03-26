@@ -1,14 +1,17 @@
 # Design Inspiration & Resources
+
 A collection of websites and assets to spark creativity.
 
-# Inspiration
+## Inspiration
 
-## Animations
+### Animations
+
 - [IBM Plex](https://www.ibm.com/plex/)
 - [Brittany Chiang](https://brittanychiang.com/)
 - [Pageflows](https://pageflows.com/)
 
-## Aesthetics
+### Aesthetics
+
 - [AirBnb Cereal](https://airbnb.design/cereal/)
 - [PioTrf](https://piotrf.pl/made)
 - [State Of European Tech](https://2017.stateofeuropeantech.com/chapter/introduction/)
@@ -21,13 +24,14 @@ A collection of websites and assets to spark creativity.
 - [Oliver Gomes](https://oliver-gomes.github.io/v4/)
 - [Hixle](http://www.hixle.co/)
 
-## Navigation
+### Navigation
+
 - [NYC Pride](https://www.nycpride.org/community/)
 - [Digital Psychology](https://digitalpsychology.io/)
 - [Code Bushi](https://codebushi.com/)
 
+### Design Collection Websites
 
-## Design Collection Websites
 - [Awwwards](https://www.awwwards.com/)
 - [UI Movement](https://uimovement.com)
 - [Collect UI](http://collectui.com)
@@ -48,24 +52,35 @@ A collection of websites and assets to spark creativity.
 - [Calltoidea](https://calltoidea.com)
 - [PatternTap](https://patterntap.com/patterntap)
 - [Inspiredesign](http://inspiredesign.me/)
+- [Instagram](https://www.instagram.com "use hashtags: design, uiux, uidesign, graphicdesign and more")
+- [Codrops](https://tympanus.net/codrops/)
 
+## Resources
+
+### Open source design & code
+
+- [CodePen](https://codepen.io/ "Open source design")
 
 # Resources
+
 ## CSS Codes
 - [Freefrontend](https://freefrontend.com)
 
-## Graphics & Images
+### Graphics & Images
+
 - [unDraw](https://undraw.co/illustrations)
 - [Svg Repo](https://www.svgrepo.com/)
 - [uifaces](https://uifaces.com/)
 - [UnSplash](https://unsplash.com/)
 - [The Stocks](http://thestocks.im)
 
-## Icons
+### Icons
+
 - [The Noun Project](https://thenounproject.com/)
 - [Flat Icon](https://www.flaticon.com/home)
 
-## Colors & Palettes
+### Colors & Palettes
+
 - [Adobe Color Wheel](https://color.adobe.com/create/color-wheel/)
 - [Coolors](https://coolors.co/)
 - [Flat UI Color](https://flatuicolors.com/)
@@ -77,9 +92,15 @@ A collection of websites and assets to spark creativity.
 - [WebGradient](https://webgradients.com/)
 
 ## Patterns
+
 - [Hero Patterns](http://www.heropatterns.com/)
 
-## Fonts
+### Decorations
+
+- [Box-shadows.CSS](https://github.com/madeas/box-shadows.css "Collection of CSS box-shadows")
+
+### Fonts
+
 - [Google Fonts](https://fonts.google.com/)
 - [IBM Plex](https://www.ibm.com/plex/)
 - [Font Squirrel](https://www.fontsquirrel.com)
