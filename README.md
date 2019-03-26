@@ -49,6 +49,10 @@ A collection of websites and assets to spark creativity.
 - [Instagram](https://www.instagram.com "use hashtags: design, uiux, uidesign, graphicdesign and more")
 - [Codrops](https://tympanus.net/codrops/)
 
+### Typography
+
+- [Fonts in Use](https://fontsinuse.com/)
+
 ## Resources
 
 ### Open source design & code
