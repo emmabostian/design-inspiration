@@ -61,11 +61,18 @@ A collection of websites and assets to spark creativity.
 
 - [CodePen](https://codepen.io/ "Open source design")
 
+
 # Resources
 
 ### CSS Codes
 - [Freefrontend](https://freefrontend.com)
 - [Animista - CSS Animation](http://animista.net)
+
+### Animations
+
+- [LottieFiles](https://lottiefiles.com/)
+- [Animate.css](https://daneden.github.io/animate.css/)
+
 
 ### Graphics & Images
 
@@ -79,6 +86,7 @@ A collection of websites and assets to spark creativity.
 
 - [The Noun Project](https://thenounproject.com/)
 - [Flat Icon](https://www.flaticon.com/home)
+- [Material Icons](https://material.io/tools/icons)
 
 ### Colors & Palettes
 
