@@ -58,3 +58,14 @@ A collection of websites and assets to spark creativity
 - [Coolors](https://coolors.co/)
 - [Paletton](http://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF)
 - [Palettab](https://palettab.com/)
+- [ColorZilla Gradient Generator](http://www.colorzilla.com/gradient-editor/)
+- [uiGradients](https://uigradients.com/#Dania)
+
+## Fonts
+- [Google Fonts](https://fonts.google.com/)
+- [IBM Plex](https://www.ibm.com/plex/)
+- [Font Squirrel](https://www.fontsquirrel.com)
+- [Fonts.com](https://www.fonts.com/)
+- [What The Font](https://www.myfonts.com/WhatTheFont/)
+- [Hoefler & Co](https://www.typography.com/)
+- [Font Joy](https://fontjoy.com)
