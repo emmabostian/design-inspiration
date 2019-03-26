@@ -1,5 +1,7 @@
-# Design Inspiration
-A collection of websites to spark creativity
+# Design Inspiration & Resources
+A collection of websites and assets to spark creativity
+
+# Inspiration
 
 ## Animations
 - [IBM Plex](https://www.ibm.com/plex/)
@@ -40,3 +42,13 @@ A collection of websites to spark creativity
 - [Land Book](https://land-book.com)
 - [Commerce Cream](https://commercecream.com)
 
+
+# Resources
+
+## Graphics & Images
+- [unDraw](https://undraw.co/illustrations)
+- [UnSplash](https://unsplash.com/)
+
+## Icons
+- [The Noun Project](https://thenounproject.com/)
+- [Flat Icon](https://www.flaticon.com/home)
