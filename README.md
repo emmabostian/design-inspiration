@@ -51,6 +51,8 @@ A collection of websites and assets to spark creativity.
 
 
 # Resources
+## CSS Codes
+- [Freefrontend](https://freefrontend.com)
 
 ## Graphics & Images
 - [unDraw](https://undraw.co/illustrations)
