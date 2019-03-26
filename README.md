@@ -56,6 +56,7 @@ A collection of websites and assets to spark creativity.
 
 ## Graphics & Images
 - [unDraw](https://undraw.co/illustrations)
+- [Svg Repo](https://www.svgrepo.com/)
 - [uifaces](https://uifaces.com/)
 - [UnSplash](https://unsplash.com/)
 - [The Stocks](http://thestocks.im)
