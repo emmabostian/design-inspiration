@@ -57,6 +57,7 @@ A collection of websites and assets to spark creativity.
 ## Colors & Palettes
 - [Adobe Color Wheel](https://color.adobe.com/create/color-wheel/)
 - [Coolors](https://coolors.co/)
+- [Flat UI Color](https://flatuicolors.com/)
 - [Paletton](http://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF)
 - [Palettab](https://palettab.com/)
 - [ColorZilla Gradient Generator](http://www.colorzilla.com/gradient-editor/)
