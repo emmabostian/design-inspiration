@@ -1,5 +1,5 @@
 # Design Inspiration & Resources
-A collection of websites and assets to spark creativity
+A collection of websites and assets to spark creativity.
 
 # Inspiration
 
