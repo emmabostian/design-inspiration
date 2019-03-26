@@ -72,6 +72,9 @@ A collection of websites and assets to spark creativity.
 - [CoolHue](https://webkul.github.io/coolhue/)
 - [WebGradient](https://webgradients.com/)
 
+## Patterns
+- [Hero Patterns](http://www.heropatterns.com/)
+
 ## Fonts
 - [Google Fonts](https://fonts.google.com/)
 - [IBM Plex](https://www.ibm.com/plex/)
