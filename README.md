@@ -59,6 +59,7 @@ A collection of websites and assets to spark creativity.
 
 - [LottieFiles](https://lottiefiles.com/)
 - [Animate.css](https://daneden.github.io/animate.css/)
+- [Cubic Bezier Preview](http://cubic-bezier.com/#.17,.67,.83,.67)
 
 ### Graphics & Images
 
