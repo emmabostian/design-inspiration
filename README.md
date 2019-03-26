@@ -71,6 +71,7 @@ A collection of websites and assets to spark creativity.
 - [The Noun Project](https://thenounproject.com/)
 - [Flat Icon](https://www.flaticon.com/home)
 - [Material Icons](https://material.io/tools/icons)
+- [IcoMoon](https://icomoon.io/)
 
 ### Colors & Palettes
 
