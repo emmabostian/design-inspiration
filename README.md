@@ -63,8 +63,9 @@ A collection of websites and assets to spark creativity.
 
 # Resources
 
-## CSS Codes
+### CSS Codes
 - [Freefrontend](https://freefrontend.com)
+- [Animista - CSS Animation](http://animista.net)
 
 ### Graphics & Images
 
