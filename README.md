@@ -45,6 +45,7 @@ A collection of websites and assets to spark creativity.
 - [Behance](https://www.behance.net/)
 - [Codrop](https://tympanus.net/codrops/)
 - [Calltoidea](https://calltoidea.com)
+- [PatternTap](https://patterntap.com/patterntap)
 
 
 # Resources
