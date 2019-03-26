@@ -3,11 +3,15 @@ A collection of websites to spark creativity
 
 ## Animations
 - [IBM Plex](https://www.ibm.com/plex/)
+- [Brittany Chiang](https://brittanychiang.com/)
 
 ## Aesthetics
 - [AirBnb Cereal](https://airbnb.design/cereal/)
 - [PioTrf](https://piotrf.pl/made)
 - [State Of European Tech](https://2017.stateofeuropeantech.com/chapter/introduction/)
+- [Code Championchip](https://www.codechampionship.com/)
+- [CV Compiler](https://cvcompiler.com/)
+- [Dawn Labs](https://dawnlabs.io/work)
 
 ## Navigation
 - [NYC Pride](https://www.nycpride.org/community/)
