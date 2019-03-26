@@ -1,13 +1,16 @@
 # Design Inspiration & Resources
+
 A collection of websites and assets to spark creativity.
 
-# Inspiration
+## Inspiration
 
-## Animations
+### Animations
+
 - [IBM Plex](https://www.ibm.com/plex/)
 - [Brittany Chiang](https://brittanychiang.com/)
 
-## Aesthetics
+### Aesthetics
+
 - [AirBnb Cereal](https://airbnb.design/cereal/)
 - [PioTrf](https://piotrf.pl/made)
 - [State Of European Tech](https://2017.stateofeuropeantech.com/chapter/introduction/)
@@ -19,13 +22,14 @@ A collection of websites and assets to spark creativity.
 - [Sheffielders](https://sheffielders.org/)
 - [Oliver Gomes](https://oliver-gomes.github.io/v4/)
 
-## Navigation
+### Navigation
+
 - [NYC Pride](https://www.nycpride.org/community/)
 - [Digital Psychology](https://digitalpsychology.io/)
 - [Code Bushi](https://codebushi.com/)
 
+### Design Collection Websites
 
-## Design Collection Websites
 - [Awwwards](https://www.awwwards.com/)
 - [UI Movement](https://uimovement.com)
 - [Collect UI](http://collectui.com)
@@ -42,19 +46,26 @@ A collection of websites and assets to spark creativity.
 - [Land Book](https://land-book.com)
 - [Commerce Cream](https://commercecream.com)
 - [Behance](https://www.behance.net/)
+- [Instagram](https://www.instagram.com "use hashtags: design, uiux, uidesign, graphicdesign and more")
 
+## Resources
 
-# Resources
+### Open source design & code
 
-## Graphics & Images
+- [CodePen](https://codepen.io/ "Open source design")
+
+### Graphics & Images
+
 - [unDraw](https://undraw.co/illustrations)
 - [UnSplash](https://unsplash.com/)
 
-## Icons
+### Icons
+
 - [The Noun Project](https://thenounproject.com/)
 - [Flat Icon](https://www.flaticon.com/home)
 
-## Colors & Palettes
+### Colors & Palettes
+
 - [Adobe Color Wheel](https://color.adobe.com/create/color-wheel/)
 - [Coolors](https://coolors.co/)
 - [Paletton](http://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF)
@@ -62,7 +73,12 @@ A collection of websites and assets to spark creativity.
 - [ColorZilla Gradient Generator](http://www.colorzilla.com/gradient-editor/)
 - [uiGradients](https://uigradients.com/#Dania)
 
-## Fonts
+### Decorations
+
+- [Box-shadows.CSS](https://github.com/madeas/box-shadows.css "Collection of CSS box-shadows")
+
+### Fonts
+
 - [Google Fonts](https://fonts.google.com/)
 - [IBM Plex](https://www.ibm.com/plex/)
 - [Font Squirrel](https://www.fontsquirrel.com)
