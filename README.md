@@ -95,3 +95,4 @@ A collection of websites and assets to spark creativity.
 - [What The Font](https://www.myfonts.com/WhatTheFont/)
 - [Hoefler & Co](https://www.typography.com/)
 - [Font Joy](https://fontjoy.com)
+- [WordMark.it](https://wordmark.it/)
