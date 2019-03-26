@@ -12,6 +12,10 @@ A collection of websites to spark creativity
 - [Code Championchip](https://www.codechampionship.com/)
 - [CV Compiler](https://cvcompiler.com/)
 - [Dawn Labs](https://dawnlabs.io/work)
+- [The Leaky Cauldron Blog](https://theleakycauldronblog.com/)
+- [AZOOR Society](https://www.theazoorsociety.org/)
+- [Sheffielders](https://sheffielders.org/)
+- [Oliver Gomes](https://oliver-gomes.github.io/v4/)
 
 ## Navigation
 - [NYC Pride](https://www.nycpride.org/community/)
