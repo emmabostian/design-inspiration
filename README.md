@@ -6,6 +6,7 @@ A collection of websites and assets to spark creativity.
 ## Animations
 - [IBM Plex](https://www.ibm.com/plex/)
 - [Brittany Chiang](https://brittanychiang.com/)
+- [Pageflows](https://pageflows.com/)
 
 ## Aesthetics
 - [AirBnb Cereal](https://airbnb.design/cereal/)
