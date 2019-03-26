@@ -52,3 +52,9 @@ A collection of websites and assets to spark creativity
 ## Icons
 - [The Noun Project](https://thenounproject.com/)
 - [Flat Icon](https://www.flaticon.com/home)
+
+## Colors & Palettes
+- [Adobe Color Wheel](https://color.adobe.com/create/color-wheel/)
+- [Coolors](https://coolors.co/)
+- [Paletton](http://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF)
+- [Palettab](https://palettab.com/)
