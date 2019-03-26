@@ -58,6 +58,7 @@ A collection of websites and assets to spark creativity.
 - [unDraw](https://undraw.co/illustrations)
 - [uifaces](https://uifaces.com/)
 - [UnSplash](https://unsplash.com/)
+- [The Stocks](http://thestocks.im)
 
 ## Icons
 - [The Noun Project](https://thenounproject.com/)
