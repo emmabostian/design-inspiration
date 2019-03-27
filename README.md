@@ -6,7 +6,7 @@ A collection of websites and assets to spark creativity.
 
 ### Aesthetics
 
-|  |  |  |  |
+|  |   |   |  |
 |:-|:-:|:-:|-:|
 | [AirBnb Cereal](https://airbnb.design/cereal/) | [AZOOR Society](https://www.theazoorsociety.org/) | [Code Championchip](https://www.codechampionship.com/) | [CV Compiler](https://cvcompiler.com/) |
 | [Dawn Labs](https://dawnlabs.io/work) | [Oliver Gomes](https://oliver-gomes.github.io/v4/) | [PioTrf](https://piotrf.pl/made) | [Sheffielders](https://sheffielders.org/) |
@@ -21,7 +21,7 @@ A collection of websites and assets to spark creativity.
 
 ### Design Collection Websites
 
-|  |  |  |  |
+|  |   |   |  |
 |:-|:-:|:-:|-:|
 | **For inspiration** |  |  |  |
 | [Awwwards](https://www.awwwards.com/) | [Behance](https://www.behance.net/) | [Dribbble](https://dribbble.com) | [Codrops](https://tympanus.net/codrops/) |
@@ -40,21 +40,21 @@ A collection of websites and assets to spark creativity.
 
 ### Animation
 
-|  |  |  |  |
+|  |   |   |  |
 |:-|:-:|:-:|-:|
 |  [Animate.css](https://daneden.github.io/animate.css/) | [Animista](http://animista.net) | [Cubic Bezier Preview](http://cubic-bezier.com/) | [IBM Plex](https://www.ibm.com/plex/) |
 | [LottieFiles](https://lottiefiles.com/) |  |  |  |
 
 ### Graphics & Images
 
-|  |  |  |  |
+|  |   |  |   |
 |:-|:-:|:-:|-:|
 | [Freepik](https://www.freepik.com) | [Svg Repo](https://www.svgrepo.com/) | [The Stocks](http://thestocks.im) | [UnSplash](https://unsplash.com/) |
 | [uifaces](https://uifaces.com/) | [unDraw](https://undraw.co/illustrations) |  |  |
 
 ### Icons
 
-|  |  |  |  |
+|  |   |   |  |
 |:-|:-:|:-:|-:|
 | [Flat Icon](https://www.flaticon.com/home) | [IcoMoon](https://icomoon.io/) | [Material Icons](https://material.io/tools/icons)  | [The Noun Project](https://thenounproject.com/) |
 
@@ -83,11 +83,10 @@ A collection of websites and assets to spark creativity.
 
 ### Fonts
 
-|  |  |  |  |
-|:-|:-:|:-:|-:|
-| [Font Squirrel](https://www.fontsquirrel.com) | [Fonts.com](https://www.fonts.com/) | [Font Joy](https://fontjoy.com)  | [Google Fonts](https://fonts.google.com/) |
-| [DaFont](https://www.dafont.com/) | [Hoefler & Co](https://www.typography.com/) | [IBM Plex](https://www.ibm.com/plex/) | [What The Font](https://www.myfonts.com/WhatTheFont/) |
-| [WordMark.it](https://wordmark.it/) |  |  |  |
+|   |   |   |   |   |
+|:--|:-:|:-:|:-:|--:|
+| [Font Squirrel](https://www.fontsquirrel.com) | [Fonts.com](https://www.fonts.com/) | [Font Joy](https://fontjoy.com)  | [Google Fonts](https://fonts.google.com/) | [WordMark.it](https://wordmark.it/) |
+| [DaFont](https://www.dafont.com/) | [Hoefler & Co](https://www.typography.com/) | [IBM Plex](https://www.ibm.com/plex/) | [What The Font](https://www.myfonts.com/WhatTheFont/) |  |
 
 ### Open source design & code
 
