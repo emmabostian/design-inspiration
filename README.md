@@ -21,6 +21,7 @@ A collection of websites and assets to spark creativity.
 - [AZOOR Society](https://www.theazoorsociety.org/)
 - [Sheffielders](https://sheffielders.org/)
 - [Oliver Gomes](https://oliver-gomes.github.io/v4/)
+- [SiteInspire](https://www.siteinspire.com/)
 
 ### Navigation
 
@@ -49,6 +50,11 @@ A collection of websites and assets to spark creativity.
 - [Instagram](https://www.instagram.com "use hashtags: design, uiux, uidesign, graphicdesign and more")
 - [Codrops](https://tympanus.net/codrops/)
 - [Muzli](https://medium.muz.li/)
+- [UISources](https://www.uisources.com/)
+
+### Typography
+
+- [Fonts in Use](https://fontsinuse.com/)
 
 ## Resources
 
@@ -60,6 +66,7 @@ A collection of websites and assets to spark creativity.
 
 - [LottieFiles](https://lottiefiles.com/)
 - [Animate.css](https://daneden.github.io/animate.css/)
+- [Cubic Bezier Preview](http://cubic-bezier.com/#.17,.67,.83,.67)
 
 ### Graphics & Images
 
@@ -72,6 +79,7 @@ A collection of websites and assets to spark creativity.
 - [The Noun Project](https://thenounproject.com/)
 - [Flat Icon](https://www.flaticon.com/home)
 - [Material Icons](https://material.io/tools/icons)
+- [IcoMoon](https://icomoon.io/)
 
 ### Colors & Palettes
 
@@ -81,6 +89,7 @@ A collection of websites and assets to spark creativity.
 - [Palettab](https://palettab.com/)
 - [ColorZilla Gradient Generator](http://www.colorzilla.com/gradient-editor/)
 - [uiGradients](https://uigradients.com/#Dania)
+- [Material Design Colors](https://www.materialui.co)
 
 ### Decorations
 
@@ -96,3 +105,4 @@ A collection of websites and assets to spark creativity.
 - [Hoefler & Co](https://www.typography.com/)
 - [Font Joy](https://fontjoy.com)
 - [DaFont](https://www.dafont.com/)
+- [WordMark.it](https://wordmark.it/)
