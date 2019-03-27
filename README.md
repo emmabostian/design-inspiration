@@ -102,8 +102,8 @@ Site | Description
 [Paletton](http://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF) |
 [Palettab](https://palettab.com/) |
 [Material Design Colors](https://www.materialui.co) |
-|
-**Gradients** |
+| |
+| **Gradients** |
 [uiGradients](https://uigradients.com/#Dania) |
 [ColorZilla Gradient Generator](http://www.colorzilla.com/gradient-editor/) |
 [CoolHue](https://webkul.github.io/coolhue/) |
