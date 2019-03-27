@@ -79,6 +79,7 @@ A collection of websites and assets to spark creativity.
 - [Palettab](https://palettab.com/)
 - [ColorZilla Gradient Generator](http://www.colorzilla.com/gradient-editor/)
 - [uiGradients](https://uigradients.com/#Dania)
+- [Material Design Colors](https://www.materialui.co)
 
 ### Decorations
 
