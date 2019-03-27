@@ -49,8 +49,8 @@ A collection of websites and assets to spark creativity.
 
 |  |  |  |  |
 |:-|:-:|:-:|-:|
-| [Freepik](https://www.freepik.com) | [Svg Repo](https://www.svgrepo.com/) | [The Stocks](http://thestocks.im) |  |
-| [UnSplash](https://unsplash.com/) | [unDraw](https://undraw.co/illustrations) | [uifaces](https://uifaces.com/) |  |
+| [Freepik](https://www.freepik.com) | [Svg Repo](https://www.svgrepo.com/) | [The Stocks](http://thestocks.im) | [UnSplash](https://unsplash.com/) |
+| [uifaces](https://uifaces.com/) | [unDraw](https://undraw.co/illustrations) |  |  |
 
 ### Icons
 
