@@ -8,6 +8,7 @@ A collection of websites and assets to spark creativity.
 
 - [IBM Plex](https://www.ibm.com/plex/)
 - [Brittany Chiang](https://brittanychiang.com/)
+- [I don't have a portfolio yet](https://www.idonthaveaportfolioyet.com/)
 
 ### Aesthetics
 
@@ -71,6 +72,7 @@ A collection of websites and assets to spark creativity.
 
 - [unDraw](https://undraw.co/illustrations)
 - [UnSplash](https://unsplash.com/)
+- [Pixabay](https://pixabay.com/)
 
 ### Icons
 
@@ -78,6 +80,7 @@ A collection of websites and assets to spark creativity.
 - [Flat Icon](https://www.flaticon.com/home)
 - [Material Icons](https://material.io/tools/icons)
 - [IcoMoon](https://icomoon.io/)
+- [Icon Finder](https://www.iconfinder.com/)
 
 ### Colors & Palettes
 
