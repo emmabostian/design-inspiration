@@ -6,18 +6,28 @@ A collection of websites and assets to spark creativity.
 
 ### Aesthetics
 
-|  |   |   |  |
-|:-|:-:|:-:|-:|
-| [AirBnb Cereal](https://airbnb.design/cereal/) | [AZOOR Society](https://www.theazoorsociety.org/) | [Code Championchip](https://www.codechampionship.com/) | [CV Compiler](https://cvcompiler.com/) |
-| [Dawn Labs](https://dawnlabs.io/work) | [Oliver Gomes](https://oliver-gomes.github.io/v4/) | [PioTrf](https://piotrf.pl/made) | [Sheffielders](https://sheffielders.org/) |
-| [State Of European Tech](https://2017.stateofeuropeantech.com/chapter/introduction/) | [SiteInspire](https://www.siteinspire.com/) | [The Leaky Cauldron Blog](https://theleakycauldronblog.com/) | [Hixle](http://www.hixle.co/) |
-|  |  |  |  |
+Site | Description
+   --|--
+[AirBnb Cereal](https://airbnb.design/cereal/) |
+[AZOOR Society](https://www.theazoorsociety.org/) |
+[Code Championchip](https://www.codechampionship.com/) |
+[CV Compiler](https://cvcompiler.com/) |
+[Dawn Labs](https://dawnlabs.io/work) |
+[Oliver Gomes](https://oliver-gomes.github.io/v4/) |
+[PioTrf](https://piotrf.pl/made) |
+[Sheffielders](https://sheffielders.org/) |
+[State Of European Tech](https://2017.stateofeuropeantech.com/chapter/introduction/) |
+[SiteInspire](https://www.siteinspire.com/) |
+[The Leaky Cauldron Blog](https://theleakycauldronblog.com/) |
+[Hixle](http://www.hixle.co/) |
 
 ### Navigation
 
-|  |  |  |
-|--|--|-:|
-| [Code Bushi](https://codebushi.com/) | [Digital Psychology](https://digitalpsychology.io/) | [NYC Pride](https://www.nycpride.org/community/) |
+Site | Description
+   --|--
+[Code Bushi](https://codebushi.com/) |
+[Digital Psychology](https://digitalpsychology.io/) |
+[NYC Pride](https://www.nycpride.org/community/) |
 
 ### Design Collection Websites
 
@@ -40,17 +50,24 @@ A collection of websites and assets to spark creativity.
 
 ### Animation
 
-|  |   |   |  |
-|:-|:-:|:-:|-:|
-|  [Animate.css](https://daneden.github.io/animate.css/) | [Animista](http://animista.net) | [Cubic Bezier Preview](http://cubic-bezier.com/) | [IBM Plex](https://www.ibm.com/plex/) |
-| [LottieFiles](https://lottiefiles.com/) |  |  |  |
+Site | Description
+   --|--
+| [Animate.css](https://daneden.github.io/animate.css/) |
+| [Animista](http://animista.net) |
+| [Cubic Bezier Preview](http://cubic-bezier.com/) |
+| [IBM Plex](https://www.ibm.com/plex/) |
+| [LottieFiles](https://lottiefiles.com/) |
 
 ### Graphics & Images
 
-|  |   |  |   |
-|:-|:-:|:-:|-:|
-| [Freepik](https://www.freepik.com) | [Svg Repo](https://www.svgrepo.com/) | [The Stocks](http://thestocks.im) | [UnSplash](https://unsplash.com/) |
-| [uifaces](https://uifaces.com/) | [unDraw](https://undraw.co/illustrations) |  |  |
+Site | Description
+   --|--
+| [Freepik](https://www.freepik.com) | |
+| [Svg Repo](https://www.svgrepo.com/) | |
+| [The Stocks](http://thestocks.im) | |
+| [UnSplash](https://unsplash.com/) | |
+| [uifaces](https://uifaces.com/) | |
+| [unDraw](https://undraw.co/illustrations) | |
 
 ### Icons
 
@@ -60,22 +77,28 @@ A collection of websites and assets to spark creativity.
 
 ### Colors & Palettes
 
-|  |  |  |
-|--|--|-:|
-| **Palettes** |  |
-| [Adobe Color Wheel](https://color.adobe.com/create/color-wheel/) | [Coolors](https://coolors.co/) | [Flat UI Color](https://flatuicolors.com/) |
-| [Paletton](http://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF) | [Palettab](https://palettab.com/) | [Material Design Colors](https://www.materialui.co) |
-|  |  |  |
-| **Gradients** |  |  |
-| [uiGradients](https://uigradients.com/#Dania) | [ColorZilla Gradient Generator](http://www.colorzilla.com/gradient-editor/) | [CoolHue](https://webkul.github.io/coolhue/) |
-| [WebGradient](https://webgradients.com/) |  |  |
+Site | Description
+   --|--
+**Palettes** |
+[Adobe Color Wheel](https://color.adobe.com/create/color-wheel/) |
+[Coolors](https://coolors.co/) |
+[Flat UI Color](https://flatuicolors.com/) |
+[Paletton](http://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF) |
+[Palettab](https://palettab.com/) |
+[Material Design Colors](https://www.materialui.co) |
+|
+**Gradients** |
+[uiGradients](https://uigradients.com/#Dania) |
+[ColorZilla Gradient Generator](http://www.colorzilla.com/gradient-editor/) |
+[CoolHue](https://webkul.github.io/coolhue/) |
+[WebGradient](https://webgradients.com/) |
 
 ### Decorations
 
-| Decorations |  |
-|--|--|
-| [Box-shadows.CSS](https://github.com/madeas/box-shadows.css) | A cross-browser collection of CSS box-shadows |
-| [Hero Patterns](http://www.heropatterns.com/) | A collection of repeatable SVG background patterns |
+Site | Description
+   --|--
+[Box-shadows.CSS](https://github.com/madeas/box-shadows.css) | A cross-browser collection of CSS box-shadows
+[Hero Patterns](http://www.heropatterns.com/) | A collection of repeatable SVG background patterns
 
 ### Typography
 
@@ -83,10 +106,11 @@ A collection of websites and assets to spark creativity.
 
 ### Fonts
 
-|   |   |   |   |   |
-|:--|:-:|:-:|:-:|--:|
-| [Font Squirrel](https://www.fontsquirrel.com) | [Fonts.com](https://www.fonts.com/) | [Font Joy](https://fontjoy.com)  | [Google Fonts](https://fonts.google.com/) | [WordMark.it](https://wordmark.it/) |
-| [DaFont](https://www.dafont.com/) | [Hoefler & Co](https://www.typography.com/) | [IBM Plex](https://www.ibm.com/plex/) | [What The Font](https://www.myfonts.com/WhatTheFont/) |  |
+|   |   |   |   |
+|:-:|:-:|:-:|:-:|
+[Font Squirrel](https://www.fontsquirrel.com) | [Fonts.com](https://www.fonts.com/) | [Font Joy](https://fontjoy.com)  | [Google Fonts](https://fonts.google.com/)
+[WordMark.it](https://wordmark.it/) | [DaFont](https://www.dafont.com/) | [Hoefler & Co](https://www.typography.com/) | [IBM Plex](https://www.ibm.com/plex/)
+[What The Font](https://www.myfonts.com/WhatTheFont/) |  |  |
 
 ### Open source design & code
 
