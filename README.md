@@ -4,6 +4,39 @@ A collection of websites and assets to spark creativity.
 
 ## Inspiration
 
+### Design Collection Websites
+
+Site | Description
+  ---|--
+[Awwwards](https://www.awwwards.com/) | Best Web Design Trends
+[Behance](https://www.behance.net/) | Best Web Design, Development and Graphic Design
+[Dribbble](https://dribbble.com) | World Top Designers & Creative Professionals
+[Codrops](https://tympanus.net/codrops/) | Useful resources and inspiration for creative minds
+[Brutalist Websites](https://brutalistwebsites.com) |
+[Calltoidea](https://calltoidea.com) |
+[Collect UI](http://collectui.com) |
+[Commerce Cream](https://commercecream.com) |
+[Good Web Design](http://www.goodweb.design) |
+[Instagram](https://www.instagram.com) |
+[Interfaces Pro](https://interfaces.pro) |
+[Land Book](https://land-book.com) |
+[Minimal Gallery](http://minimal.gallery) |
+[Muzli](https://medium.muz.li/) |
+[Nicely Done](http://nicelydone.club) |
+[Ready Mag](https://readymag.com/explore) |
+[Site Inspire](https://www.siteinspire.com) |
+[UISources](https://www.uisources.com/) |
+[UI Movement](https://uimovement.com) |
+[Up Labs](https://www.uplabs.com) |
+[CodePen](https://codepen.io/) | Online Code Editor, Frontend Web Developer Community and Web-design/development with open source
+
+### Designers & Developers
+
+Site | Description
+   --|--
+[Brittany Chiang](https://brittanychiang.com/) |
+[Matt Willey](https://mattwilley.co.uk) |
+
 ### Aesthetics
 
 Site | Description
@@ -28,23 +61,6 @@ Site | Description
 [Code Bushi](https://codebushi.com/) |
 [Digital Psychology](https://digitalpsychology.io/) |
 [NYC Pride](https://www.nycpride.org/community/) |
-
-### Design Collection Websites
-
-|  |   |   |  |
-|:-|:-:|:-:|-:|
-| **For inspiration** |  |  |  |
-| [Awwwards](https://www.awwwards.com/) | [Behance](https://www.behance.net/) | [Dribbble](https://dribbble.com) | [Codrops](https://tympanus.net/codrops/) |
-| [Brutalist Websites](https://brutalistwebsites.com) | [Calltoidea](https://calltoidea.com) | [Collect UI](http://collectui.com) | [Commerce Cream](https://commercecream.com) |
-| [Good Web Design](http://www.goodweb.design) | [Instagram](https://www.instagram.com) | [Interfaces Pro](https://interfaces.pro) |  |
-| [Land Book](https://land-book.com) | [Minimal Gallery](http://minimal.gallery) | [Muzli](https://medium.muz.li/) | [Nicely Done](http://nicelydone.club) |
-| [Ready Mag](https://readymag.com/explore) | [Site Inspire](https://www.siteinspire.com) | [UISources](https://www.uisources.com/) | [UI Movement](https://uimovement.com) |
-| [Up Labs](https://www.uplabs.com) |  |  |
-|  |  |  |  |
-| Designers & Developers |  |  |  |
-|  |  |  |  |
-| [Brittany Chiang](https://brittanychiang.com/)| [Matt Willey](https://mattwilley.co.uk) |   |  |
-|  |  |  |  |
 
 ## Resources
 
@@ -111,7 +127,3 @@ Site | Description
 [Font Squirrel](https://www.fontsquirrel.com) | [Fonts.com](https://www.fonts.com/) | [Font Joy](https://fontjoy.com)  | [Google Fonts](https://fonts.google.com/)
 [WordMark.it](https://wordmark.it/) | [DaFont](https://www.dafont.com/) | [Hoefler & Co](https://www.typography.com/) | [IBM Plex](https://www.ibm.com/plex/)
 [What The Font](https://www.myfonts.com/WhatTheFont/) |  |  |
-
-### Open source design & code
-
-- [CodePen](https://codepen.io/ "Open source design")
