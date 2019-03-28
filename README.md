@@ -55,6 +55,7 @@ A collection of websites and assets to spark creativity.
 - [Inspiredesign](http://inspiredesign.me/)
 - [Instagram](https://www.instagram.com "use hashtags: design, uiux, uidesign, graphicdesign and more")
 - [Codrops](https://tympanus.net/codrops/)
+- [Muzli](https://medium.muz.li/)
 - [UISources](https://www.uisources.com/)
 
 ### Typography
@@ -87,6 +88,7 @@ A collection of websites and assets to spark creativity.
 - [Svg Repo](https://www.svgrepo.com/)
 - [uifaces](https://uifaces.com/)
 - [UnSplash](https://unsplash.com/)
+- [Freepik](https://www.freepik.com)
 - [The Stocks](http://thestocks.im)
 
 ### Icons
@@ -126,4 +128,5 @@ A collection of websites and assets to spark creativity.
 - [What The Font](https://www.myfonts.com/WhatTheFont/)
 - [Hoefler & Co](https://www.typography.com/)
 - [Font Joy](https://fontjoy.com)
+- [DaFont](https://www.dafont.com/)
 - [WordMark.it](https://wordmark.it/)
