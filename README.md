@@ -9,6 +9,7 @@ A collection of websites and assets to spark creativity.
 - [IBM Plex](https://www.ibm.com/plex/)
 - [Brittany Chiang](https://brittanychiang.com/)
 - [I don't have a portfolio yet](https://www.idonthaveaportfolioyet.com/)
+- [Pageflows](https://pageflows.com/)
 
 ### Aesthetics
 
@@ -22,6 +23,7 @@ A collection of websites and assets to spark creativity.
 - [AZOOR Society](https://www.theazoorsociety.org/)
 - [Sheffielders](https://sheffielders.org/)
 - [Oliver Gomes](https://oliver-gomes.github.io/v4/)
+- [Hixle](http://www.hixle.co/)
 - [SiteInspire](https://www.siteinspire.com/)
 
 ### Navigation
@@ -48,8 +50,13 @@ A collection of websites and assets to spark creativity.
 - [Land Book](https://land-book.com)
 - [Commerce Cream](https://commercecream.com)
 - [Behance](https://www.behance.net/)
+- [Codrop](https://tympanus.net/codrops/)
+- [Calltoidea](https://calltoidea.com)
+- [PatternTap](https://patterntap.com/patterntap)
+- [Inspiredesign](http://inspiredesign.me/)
 - [Instagram](https://www.instagram.com "use hashtags: design, uiux, uidesign, graphicdesign and more")
 - [Codrops](https://tympanus.net/codrops/)
+- [Muzli](https://medium.muz.li/)
 - [UISources](https://www.uisources.com/)
 
 ### Typography
@@ -62,17 +69,29 @@ A collection of websites and assets to spark creativity.
 
 - [CodePen](https://codepen.io/ "Open source design")
 
+
+# Resources
+
+### CSS Codes
+- [Freefrontend](https://freefrontend.com)
+- [Animista - CSS Animation](http://animista.net)
+
 ### Animations
 
 - [LottieFiles](https://lottiefiles.com/)
 - [Animate.css](https://daneden.github.io/animate.css/)
 - [Cubic Bezier Preview](http://cubic-bezier.com/#.17,.67,.83,.67)
 
+
 ### Graphics & Images
 
 - [unDraw](https://undraw.co/illustrations)
+- [Svg Repo](https://www.svgrepo.com/)
+- [uifaces](https://uifaces.com/)
 - [UnSplash](https://unsplash.com/)
 - [Pixabay](https://pixabay.com/)
+- [Freepik](https://www.freepik.com)
+- [The Stocks](http://thestocks.im)
 
 ### Icons
 
@@ -86,11 +105,18 @@ A collection of websites and assets to spark creativity.
 
 - [Adobe Color Wheel](https://color.adobe.com/create/color-wheel/)
 - [Coolors](https://coolors.co/)
+- [Flat UI Color](https://flatuicolors.com/)
 - [Paletton](http://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF)
 - [Palettab](https://palettab.com/)
 - [ColorZilla Gradient Generator](http://www.colorzilla.com/gradient-editor/)
 - [uiGradients](https://uigradients.com/#Dania)
+- [CoolHue](https://webkul.github.io/coolhue/)
+- [WebGradient](https://webgradients.com/)
 - [Material Design Colors](https://www.materialui.co)
+
+## Patterns
+
+- [Hero Patterns](http://www.heropatterns.com/)
 
 ### Decorations
 
@@ -105,4 +131,5 @@ A collection of websites and assets to spark creativity.
 - [What The Font](https://www.myfonts.com/WhatTheFont/)
 - [Hoefler & Co](https://www.typography.com/)
 - [Font Joy](https://fontjoy.com)
+- [DaFont](https://www.dafont.com/)
 - [WordMark.it](https://wordmark.it/)
