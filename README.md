@@ -23,6 +23,7 @@ A collection of websites and assets to spark creativity.
 - [Sheffielders](https://sheffielders.org/)
 - [Oliver Gomes](https://oliver-gomes.github.io/v4/)
 - [Hixle](http://www.hixle.co/)
+- [SiteInspire](https://www.siteinspire.com/)
 
 ### Navigation
 
@@ -54,6 +55,11 @@ A collection of websites and assets to spark creativity.
 - [Inspiredesign](http://inspiredesign.me/)
 - [Instagram](https://www.instagram.com "use hashtags: design, uiux, uidesign, graphicdesign and more")
 - [Codrops](https://tympanus.net/codrops/)
+- [UISources](https://www.uisources.com/)
+
+### Typography
+
+- [Fonts in Use](https://fontsinuse.com/)
 
 ## Resources
 
@@ -72,6 +78,7 @@ A collection of websites and assets to spark creativity.
 
 - [LottieFiles](https://lottiefiles.com/)
 - [Animate.css](https://daneden.github.io/animate.css/)
+- [Cubic Bezier Preview](http://cubic-bezier.com/#.17,.67,.83,.67)
 
 
 ### Graphics & Images
@@ -87,6 +94,7 @@ A collection of websites and assets to spark creativity.
 - [The Noun Project](https://thenounproject.com/)
 - [Flat Icon](https://www.flaticon.com/home)
 - [Material Icons](https://material.io/tools/icons)
+- [IcoMoon](https://icomoon.io/)
 
 ### Colors & Palettes
 
@@ -99,6 +107,7 @@ A collection of websites and assets to spark creativity.
 - [uiGradients](https://uigradients.com/#Dania)
 - [CoolHue](https://webkul.github.io/coolhue/)
 - [WebGradient](https://webgradients.com/)
+- [Material Design Colors](https://www.materialui.co)
 
 ## Patterns
 
@@ -117,3 +126,4 @@ A collection of websites and assets to spark creativity.
 - [What The Font](https://www.myfonts.com/WhatTheFont/)
 - [Hoefler & Co](https://www.typography.com/)
 - [Font Joy](https://fontjoy.com)
+- [WordMark.it](https://wordmark.it/)
