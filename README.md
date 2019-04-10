@@ -99,6 +99,7 @@ A collection of websites and assets to spark creativity.
 - [Eggradients](https://www.eggradients.com/)
 - [Picture to ASCII Converter](http://picascii.com/)
 - [Lorempixel](http://lorempixel.com/)
+- [Many Pixels](https://gallery.manypixels.co/?ref=producthunt)
 
 ### Avatars
 
