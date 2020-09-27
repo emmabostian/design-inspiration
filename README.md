@@ -144,6 +144,7 @@ A collection of websites and assets to spark creativity.
 ## Patterns
 
 - [Hero Patterns](http://www.heropatterns.com/)
+- [Css doodle](css-doodle.com)
 
 ### Decorations
 
