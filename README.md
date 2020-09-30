@@ -1,4 +1,4 @@
-# Design Inspiration & Resources
+# Design Inspiration & Resources (an amazing art)
 
 A collection of websites and assets to spark creativity.
 
