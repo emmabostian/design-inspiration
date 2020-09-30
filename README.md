@@ -2,7 +2,7 @@
 
 A collection of websites and assets to spark creativity.
 
-## Inspiration
+## Inspiration   
 
 ### Animations
 
