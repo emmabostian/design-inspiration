@@ -65,7 +65,7 @@ A collection of websites and assets to spark creativity.
 
 ### Typography
 
-- [Fonts in Use](https://fontsinuse.com/)
+- [Fonts in Use](https://fontsinuse.com/ ) .
 
 ## Resources
 
