@@ -2,7 +2,7 @@
 
 A collection of websites and assets to spark creativity.
 
-## Inspiration
+## Inspiration   
 
 ### Animations
 
@@ -27,7 +27,7 @@ A collection of websites and assets to spark creativity.
 - [Hixle](http://www.hixle.co/)
 - [SiteInspire](https://www.siteinspire.com/)
 
-### Navigation
+### Navigations
 
 - [NYC Pride](https://www.nycpride.org/community/)
 - [Digital Psychology](https://digitalpsychology.io/)
@@ -65,7 +65,7 @@ A collection of websites and assets to spark creativity.
 
 ### Typography
 
-- [Fonts in Use](https://fontsinuse.com/)
+- [Fonts in Use](https://fontsinuse.com/ ) .
 
 ## Resources
 
