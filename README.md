@@ -3,7 +3,7 @@
 A collection of websites and assets to spark creativity.
 
 ## Inspiration
-
+Logr.amazing project
 ### Animations
 
 - [IBM Plex](https://www.ibm.com/plex/)
