@@ -1,6 +1,6 @@
 # Design Inspiration & Resources
 
-A collection of websites and assets to spark creativity.
+A huge collection of websites and assets to spark creativity.
 
 ## Inspiration
 
@@ -86,6 +86,7 @@ A collection of websites and assets to spark creativity.
 - [LottieFiles](https://lottiefiles.com/)
 - [Animate.css](https://daneden.github.io/animate.css/)
 - [Cubic Bezier Preview](http://cubic-bezier.com/#.17,.67,.83,.67)
+- [animated awwwards](https://www.awwwards.com/websites/animation/)
 
 
 ### Graphics & Images
@@ -100,6 +101,7 @@ A collection of websites and assets to spark creativity.
 - [Picture to ASCII Converter](http://picascii.com/)
 - [Lorempixel](http://lorempixel.com/)
 - [Many Pixels](https://gallery.manypixels.co/?ref=producthunt)
+- [Image Bazaar](https://www.imagesbazaar.com/)
 
 ### Avatars
 
