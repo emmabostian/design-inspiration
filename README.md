@@ -168,3 +168,9 @@ A collection of websites and assets to spark creativity.
 - [MotionSound](https://motionsound.io/)
 - [DaFont](https://www.dafont.com/)
 - [WordMark.it](https://wordmark.it/)
+
+### java
+
+- [java tutorials basic](https://www.javatpoint.com)
+- [java tutorials advance](https://www.guru99.com/java-tutorial.html)
+
