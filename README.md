@@ -27,7 +27,7 @@ A collection of websites and assets to spark creativity.
 - [Hixle](http://www.hixle.co/)
 - [SiteInspire](https://www.siteinspire.com/)
 
-### Navigation
+### Navigations
 
 - [NYC Pride](https://www.nycpride.org/community/)
 - [Digital Psychology](https://digitalpsychology.io/)
@@ -75,13 +75,12 @@ A collection of websites and assets to spark creativity.
 - [UIKit](https://getuikit.com/)
 
 
-# Resources
 
 ### CSS Codes
 - [Freefrontend](https://freefrontend.com)
 - [Animista - CSS Animation](http://animista.net)
 
-### Animations
+### Some Animations
 
 - [LottieFiles](https://lottiefiles.com/)
 - [Animate.css](https://daneden.github.io/animate.css/)
@@ -141,11 +140,11 @@ A collection of websites and assets to spark creativity.
 - [WebGradient](https://webgradients.com/)
 - [Material Design Colors](https://www.materialui.co)
 
-## Patterns
+## Pattern
 
 - [Hero Patterns](http://www.heropatterns.com/)
 
-### Decorations
+### Decoration
 
 - [Box-shadows.CSS](https://github.com/madeas/box-shadows.css "Collection of CSS box-shadows")
 
