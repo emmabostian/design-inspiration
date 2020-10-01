@@ -1,4 +1,4 @@
-# Design Inspiration & Resources
+# Design Inspiration & Resources - Best Design Ever
 
 A collection of websites and assets to spark creativity.
 
