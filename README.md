@@ -171,4 +171,6 @@ A collection of websites and assets to spark creativity.
 
 ### java
 
--[java tutorials](https://www.javatpoint.com)
+- [java tutorials basic](https://www.javatpoint.com)
+- [java tutorials advance](https://www.guru99.com/java-tutorial.html)
+
