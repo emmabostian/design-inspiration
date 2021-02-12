@@ -197,13 +197,3 @@ A collection of websites and assets to spark creativity.
 | [MotionSound](https://motionsound.io/)       |
 | [DaFont](https://www.dafont.com/)            |
 | [WordMark.it](https://wordmark.it/)          |
-
-<style>
-table {
-    width: 100%;
-    border: thin solid gray;
-}
-table tbody tr td:first-child {
-    width: 30%;
-}
-</style>
